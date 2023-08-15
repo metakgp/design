@@ -1,4 +1,4 @@
-# KOSS Design
+# Metakgp Design
 
 Posters, Icons and graphics used by Metakgp
 
