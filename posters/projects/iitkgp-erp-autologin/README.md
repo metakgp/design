@@ -1,4 +1,4 @@
-# Metahub
+# IITKGP ERP Auto Login
 
 > [!NOTE]
 > The links to poster source are view-only.
