@@ -1,8 +1,31 @@
-# Metakgp Design
+# metaKGP Design
 
-Posters, Icons and graphics used by Metakgp
+This repository is a collection of all the work of design (posters, icons and graphics) at metaKGP. All the images/vector graphics are released under [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
 
-This repository is a collection of all the work of design at Metakgp. All the images/vector graphics are released in [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
+## Repository Structure
+
+```graphql
+.
+├── logos
+└── posters
+    ├── others
+    │   ├── hacktoberfest
+    │   │   ├── 2023.png
+    │   │   ├── 2024.png
+    │   │   ├── ...
+    │   │   └── README.md
+    │   ├── ...
+    │   └── metakgp
+    │       ├── ...
+    │       └── beyond-the-wiki.png
+    └── projects
+        ├── chillzone
+        │   ├── 2023.png
+        │   ├── 2024.png
+        │   ├── ...
+        │   └── README.md
+        └── ...
+```
 
 ---
 

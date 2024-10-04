@@ -1,3 +1,0 @@
-- chillzone-is-back : [Canva](https://www.canva.com/design/DAFvtlsvxrA/qSOqY508r1i6mKb0fQ6LnQ/edit)
-- metahub : [Canva](https://www.canva.com/design/DAFw7CW63qE/lUQ4BRwwNBlFzLYT0x6pIg/edit)
-- hacktoberfest-2023 : [Canva](https://www.canva.com/design/DAFv5EQEEdg/9Txv8fKzHXBgeSaRhlmzLw/edit)
