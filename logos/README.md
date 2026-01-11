@@ -10,7 +10,7 @@
 <tr>
 <td align="center">
 <img src="./one-line.svg" alt="one-line" width="300" /><br/>
-<small><a href="./one-line.svg">SVG</a></small>
+<small><a href="./one-line.jpg">SVG</a> | <a href="./one-line-light.svg">SVG (Light)</a></small>
 </td>
 <td align="center">
 <img src="./two-line.svg" alt="two-line" width="220" /><br/>
